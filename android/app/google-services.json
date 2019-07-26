@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048354450996",
+    "firebase_url": "https://copiarcolar-4dcc4.firebaseio.com",
+    "project_id": "copiarcolar-4dcc4",
+    "storage_bucket": "copiarcolar-4dcc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048354450996:android:a1e6d2b871e0c859",
+        "android_client_info": {
+          "package_name": "br.com.consolo.copiar_colar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048354450996-ei3si2geb9qm29hjvn5502ev096sed7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8GSYqcT1vNHgIdSnxD5LgkORpyqwtLf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048354450996-ei3si2geb9qm29hjvn5502ev096sed7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
